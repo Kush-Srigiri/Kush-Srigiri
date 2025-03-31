@@ -6,7 +6,7 @@
 
 <br>
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=YOOOOOOOOOOOOOOOOOOOOOO;Welcome+to+my+profile!;Have+a+look+around!&font=Fira%20Code&color=0558D4&center=true&width=280&height=50">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=YOOOO MY NAME IS KUSH;Welcome+to+my+profile!;Have+a+look+around!&font=Fira%20Code&color=0558D4&center=true&width=280&height=50">
 </p>
 
 <br>
@@ -20,7 +20,9 @@
  
 <h3 align="center"> When I code, I thrive on </h3>
 
-<div>
+<br>
+
+<div align= "center">
 <p>
 <img alt="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="50"/>
 <img width="12"/>
@@ -72,19 +74,24 @@
 </p>
 </div>
 
-###
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Kush-Srigiri&theme=dark&ring=0558D4&file=0558D4&currStreakNum=0558D4&currStreakLabel=0558D4&hide_border=true&justify-content="center")](https://git.io/streak-stats)![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Kush-Srigiri&hide_border=true&show_icons=true&bg_color=151515&title_color=0558D4&icon_color=0558D4&text_bold=false&text_color=9e9e9e&justify-content="center")
-
-
+<br>
 
 ###
+<div align="center" >
+ <img src="https://github-readme-streak-stats.herokuapp.com?user=Kush-Srigiri&theme=dark&ring=0558D4&file=0558D4&currStreakNum=0558D4&currStreakLabel=0558D4&hide_border=true"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=Kush-Srigiri&hide_border=true&show_icons=true&bg_color=151515&title_color=0558D4&icon_color=0558D4&text_bold=false&text_color=9e9e9e"/>
+</div> 
 
+
+###
+
+<div align="center" >
 
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kush-Srigiri/Kush-Srigiri/output/github-snake-dark.svg" />
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kush-Srigiri/Kush-Srigiri/output/github-snake.svg" />
 <img alt="github-snake" justify-content="center" src="https://raw.githubusercontent.com/Kush-Srigiri/Kush-Srigiri/output/github-snake.svg" />
 </picture>
+</div> 
 
 
