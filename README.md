@@ -1,10 +1,13 @@
-<h1 align="left">Hey there 👋 I am Kush</h1>    
+<h2> align="left">Hey there 👋 I am Kush</h2>    
+
+<p align="left"> Soon to be working for a High-Tech Company </p>
+
 
 ###
 
 <h2 align="left">About me</h2>
 
-<p align="left">I'm currently learning MongoDB and Docker <br>Goals: To work at a HighTech Company <br> Automating my life is paramount to optimizing efficiency and minimizing redundancy. 🚀 </p>
+<p align="left">I'm currently learning MongoDB and Docker <br>Goals: To work at a High-Tech Company <br> Automating my life is paramount to optimizing efficiency and minimizing redundancy. 🚀 </p>
 
 ###
  
