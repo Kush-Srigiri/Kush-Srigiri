@@ -6,11 +6,11 @@
 
 <br>
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=YOOOO+MY+NAME+IS+KUSH;Welcome+to+my+profile!;Have+a+look+around!&font=Fira%20Code&color=0558D4&center=true&width=280&height=50">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=YOOOO+MY+NAME+IS+KUSH;Welcome+to+my+profile!;Have+a+look+around!&font=Fira%20Code&color=0558D4&center=true&width=600&height=80&size=30">
 </p>
 
 <br>
-
+<br>
 
 <h2 align="center">About me</h2>
 
@@ -18,10 +18,12 @@
 
 <br>
  
-<h3 align="center"> When I code, I thrive on </h3>
+<h2 align="center"> When I code, I thrive on </h2>
 
+###
+ 
 <br>
-
+    
 <div align= "center">
 <p>
 <img alt="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="50"/>
