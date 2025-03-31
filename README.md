@@ -1,6 +1,6 @@
-<h2> align="left">Hey there 👋 I am Kush</h2>    
+<h2 align="left"> Hey there👋 Look down </h2>    
 
-<p align="left"> Soon to be working for a High-Tech Company </p>
+<p align="left"> I am Kush and am soon to be working for a High-Tech Company </p>
 
 
 ###
