@@ -6,7 +6,7 @@
 
 <br>
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=YOOOO MY NAME IS KUSH;Welcome+to+my+profile!;Have+a+look+around!&font=Fira%20Code&color=0558D4&center=true&width=280&height=50">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=YOOOO+MY+NAME+IS+KUSH;Welcome+to+my+profile!;Have+a+look+around!&font=Fira%20Code&color=0558D4&center=true&width=280&height=50">
 </p>
 
 <br>
