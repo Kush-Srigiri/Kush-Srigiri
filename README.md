@@ -11,16 +11,14 @@
 
 <br>
 
-###
 
 <h2 align="center">About me</h2>
 
 <p align="center">📃I'm currently learning MongoDB and Docker <br>🎯 Goals: To work at a High-Tech Company <br> 🎲 Automating my life is paramount to optimizing efficiency and minimizing redundancy. 🚀 </p>
 
 <br>
-###
  
-<h3> When I code, I thrive on </h3>
+<h3 align="center"> When I code, I thrive on </h3>
 
 <div>
 <p>
