@@ -1,4 +1,3 @@
-<h2 align="center"> HEYYYYY👋 What's up? </h2>
 
 <br> 
 
@@ -6,13 +5,15 @@
 
 <br>
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=YOOOO+MY+FELLOW+CODERSSSS;Welcome+to+my+profile!;Have+a+look+around!&font=Fira%20Code&color=0558D4&center=true&width=600&height=80&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=YOOOOOO+FUTURE+GENIUSES;Welcome+to+my+profile!;Have+a+look+around!&font=Fira%20Code&color=0558D4&center=true&width=600&height=80&size=30">
 </p>
 
 <br>
 <br>
 
 <h2 align="center">About me</h2>
+
+<br>
 
 <p align="center">📃I'm currently learning MongoDB and Docker <br>🎯 Goals: To work at a High-Tech Company <br> 🎲 Automating my life is paramount to optimizing efficiency and minimizing redundancy. 🚀 </p>
 
