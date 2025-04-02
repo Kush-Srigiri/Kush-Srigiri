@@ -97,8 +97,12 @@
 </picture>
 </div> 
 
+<br>
+<br>
+<br>
 
-
-My Github is having problems right now I will configure it out 
+<div align="center">
+My Github is having problems right now I will fix it soon 
+</div>
 
 
