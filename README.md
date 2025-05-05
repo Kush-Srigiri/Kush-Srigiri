@@ -15,7 +15,7 @@
 
 <br>
 
-<p align="center">📃I'm currently learning MongoDB and Docker <br>🎯 Goals: To make my dreams come true <br> 🎲 Automating my life is paramount to optimizing efficiency and minimizing redundancy. 🚀 </p>
+<p align="center">📃I'm currently learning MongoDB and Docker <br>🎯 Goals: Working for Google <br> 🎲 Automating my life is paramount to optimizing efficiency and minimizing redundancy. 🚀 </p>
 
 <br>
  
