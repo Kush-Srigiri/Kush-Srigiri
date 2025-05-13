@@ -80,16 +80,29 @@
 <br>
 
 ###
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Kush-Srigiri&theme=dark&ring=0558D4&file=0558D4&currStreakNum=0558D4&currStreakLabel=0558D4&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kush-Srigiri&hide_border=true&show_icons=true&bg_color=151515&title_color=0558D4&icon_color=0558D4&text_color=9e9e9e" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kush-Srigiri&hide_border=true&layout=compact&bg_color=151515&title_color=0558D4&text_color=9e9e9e" />
+</div>
+
+
+---
+
+<br>
+
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Kush-Srigiri&theme=shadow_blue&no-frame=false&no-bg=true&margin-w=4)
+---
+
 <div align="center" >
- <img src="https://github-readme-streak-stats.herokuapp.com?user=Kush-Srigiri&theme=dark&ring=0558D4&file=0558D4&currStreakNum=0558D4&currStreakLabel=0558D4&hide_border=true"/>
- <img src="https://github-readme-stats.vercel.app/api?username=Kush-Srigiri&hide_border=true&show_icons=true&bg_color=151515&title_color=0558D4&icon_color=0558D4&text_bold=false&text_color=9e9e9e"/>
-</div> 
-
-
-###
-
-<div align="center" >
-
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kush-Srigiri/Kush-Srigiri/output/github-snake-dark.svg" />
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kush-Srigiri/Kush-Srigiri/output/github-snake.svg" />
@@ -97,12 +110,7 @@
 </picture>
 </div> 
 
-<br>
-<br>
-<br>
-
-<div align="center">
-My Github is having problems right now I will fix it soon 
-</div>
+---
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/uDCpnf4e) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/kush.srigiri) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kush.srigiri) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Kush-Srigiri) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Kush) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kushsrigiri@gmail.com) 
 
 
