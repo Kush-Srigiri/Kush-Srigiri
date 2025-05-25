@@ -124,8 +124,8 @@
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/uDCpnf4e)
 [![Steam](https://img.shields.io/badge/Steam-000000?logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199248850390)
 [![Epic Games](https://img.shields.io/badge/Epic_Games-313131?logo=epicgames&logoColor=white)](https://store.epicgames.com/u/cd8d421d3d2947259062c65cbbe9453d)
-[![PlayStation](https://img.shields.io/badge/PlayStation-003791?logo=playstation&logoColor=white)](https://psnprofiles.com/Sansri1)
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white)](https://open.spotify.com/user/KKG1)
+[![PlayStation](https://img.shields.io/badge/PlayStation-003791?logo=playstation&logoColor=white)](https://psnprofiles.com/de-ch)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white)](https://open.spotify.com/user/31uif5nagrmyoy6v3lifbbyckwke)
 
 </div>
 
