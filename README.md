@@ -11,7 +11,7 @@
 <br>
 <br>
 
-<h2 align="center">About me</h2>
+<h1 align="center">About me</h1>
 
 <br>
 
@@ -97,10 +97,13 @@
 
 <br>
 
+<h1 align="center"> 🏆 GitHub Trophies </h1>
 
-## 🏆 GitHub Trophies
+<div align="center">
+
 ![](https://github-profile-trophy.vercel.app/?username=Kush-Srigiri&theme=shadow_blue&no-frame=false&no-bg=true&margin-w=4)
----
+
+</div>
 
 <div align="center" >
 <picture>
@@ -111,6 +114,19 @@
 </div> 
 
 ---
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/uDCpnf4e) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/kush.srigiri) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kush.srigiri) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Kush-Srigiri) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Kush) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kushsrigiri@gmail.com) 
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kushsrigiri@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Kush-Srigiri)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/kush.srigiri)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kush.srigiri)
+[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Kush)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/uDCpnf4e)
+[![Steam](https://img.shields.io/badge/Steam-000000?logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199248850390)
+[![Epic Games](https://img.shields.io/badge/Epic_Games-313131?logo=epicgames&logoColor=white)](https://store.epicgames.com/u/cd8d421d3d2947259062c65cbbe9453d)
+[![PlayStation](https://img.shields.io/badge/PlayStation-003791?logo=playstation&logoColor=white)](https://psnprofiles.com/Sansri1)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white)](https://open.spotify.com/user/KKG1)
+
+</div>
 
 
